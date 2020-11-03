@@ -110,3 +110,20 @@
   margin-bottom: 15px;
 }
 
+#board4 .board{
+  padding: 15px;
+  background-color:blueviolet;
+  cursor: pointer;
+  width: 100px;
+  margin-bottom: 15px;
+}
+
+.Reset{
+  position: absolute;
+  top: 100px;
+  right: 500px;
+  color:blue;
+  text-align: center;
+  display: block;
+  font-size: 40px;
+}
